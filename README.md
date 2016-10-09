@@ -3,7 +3,7 @@ Berisi pemutaran musik
 
 #ScreenShot
 ![Image SS1](https://github.com/Abelbimaw/ActivityLivecycle/blob/master/4.jpg)
-![Image SS2](https://github.com/Abelbimaw/ActivityLivecycle/blob/master/4.jpg)
+![Image SS2](https://github.com/Abelbimaw/ActivityLivecycle/blob/master/Screenshot%20(9).png)
 
 # Identitas
 Nama          : Abel Bima Wiratama
